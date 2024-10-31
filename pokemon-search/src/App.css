@@ -40,3 +40,22 @@
 .read-the-docs {
   color: #888;
 }
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+
+}
+input {
+  padding: 10px;
+  margin: 20px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+.pokemon-info{
+  margin-top: 20px;
+}
+
+img {
+width: 150px;
+height: 150px;
+}
